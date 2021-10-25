@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vignesan-siva
+- 👋 Hi, I’m @vignesan
 - 👀 I’m interested in data science and machine learning 
 - 🌱 I’m currently working imagecon
 - 💞️ I’m looking for data scientist job 
