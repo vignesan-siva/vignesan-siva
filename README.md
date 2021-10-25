@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vignesan-siva
 - 👀 I’m interested in data science and machine learning 
 - 🌱 I’m currently working imagecon
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for data scientist job 
 - 📫 How to reach me this is email:vigneshsiva3699@gmail.com
 
 <!---
